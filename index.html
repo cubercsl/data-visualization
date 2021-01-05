@@ -7,13 +7,18 @@
     <script src="js/jquery.min.js"></script>
     <script src="js/echarts.min.js"></script>
     <script src="js/china.js"></script>
+    <script src="js/dark.js"></script>
 </head>
 
 <body>
     <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
-    <div class="chart" id="main" style="width: 100vw;height:75vh;"></div>
-    <script src="load.js"></script>
+    <div class="chart" id="main" style="width: 1600px;height:900px;"></div>
     <script src="index.js"></script>
+    <script text="text/javascript">
+        var chart = echarts.init(document.getElementById('main'), 'dark')
+        chart.showLoading();
+        load_data()
+    </script>
 </body>
 
 </html>
