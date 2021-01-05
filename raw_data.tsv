@@ -1,41 +1,61 @@
 competitionId	name	cityname	competitors	latitude	longitude	year	month	day
+Taiwan2006	Taiwanese Championship 2006	Taichung	39	24164272	120637876	2006	7	23
+Taiwan2007	Taiwanese Championship 2007	Taichung	29	24157258	120666590	2007	9	23
 GuangdongOpen2007	Guangdong Open 2007	Guangdong	56	23118911	113261428	2007	10	1
 BeijingOpen2007	Beijing Open 2007	Beijing	59	39908172	116397947	2007	12	15
 BeijingSpringOpen2008	Beijing Spring Open 2008	Beijing	54	39908172	116397947	2008	5	2
+TaiwanSummerOpen2008	Taiwan Summer Open 2008	Taipei	71	25027120	121529317	2008	7	13
+HongKongOpen2008	Hong Kong Open 2008	Hong Kong	90	22342171	114201552	2008	7	27
+SouthTaiwanSummerOpen2008	South Taiwan Summer Open 2008	Kaohsiung	43	22638021	120301212	2008	8	24
 ShanghaiOpen2008	Shanghai Open 2008	Shanghai	37	31224353	121475915	2008	8	30
 GuangdongOpen2008	Guangdong Open 2008	Guangzhou, Guangdong Province	149	23127040	113341527	2008	10	1
 BeijingFallOpen2008	Beijing Fall Open 2008	Beijing	79	39908172	116397947	2008	11	2
 NanjingOpen2008	Nanjing Open 2008	Nanjing	64	32055644	118797740	2008	12	14
+TaiwanWinterOpen2009	Taiwan Winter Open 2009	Taipei	97	25027340	121529248	2009	2	8
 BeijingSpringOpen2009	Beijing Spring Open 2009	Beijing	103	39908172	116397947	2009	2	21
 ShijiazhuangOpen2009	Shijiazhuang Open 2009	Shijiazhuang	48	38074125	114489244	2009	3	15
 QingmingFestivalOpen2009	Qingming Festival Open 2009	Shanghai	63	31224353	121475915	2009	4	6
 BeijingMetropolisOpen2009	Beijing Metropolis Open 2009	Beijing	149	39908172	116397947	2009	5	2
 DuanwuFestivalOpen2009	Duanwu Festival Open 2009	Shenyang	119	41827586	123416408	2009	5	29
+TaiwanSpringOpen2009	Taiwan Spring Open 2009	Taipei	79	25037502	121550874	2009	5	31
 XianOpen2009	Xi'an Open 2009	Xi'an, Shaanxi Province	90	34264877	108944259	2009	6	28
+HongKongOpen2009	Hong Kong Open 2009	Hong Kong	102	22330853	114188080	2009	7	18
+TaipeiPyraminx2009	Taipei Pyraminx Competition 2009	Taipei	21	25012630	121535123	2009	7	26
+TaichungPyraminx2009	Taichung Pyraminx Competition 2009	Taichung	17	24153916	120646405	2009	7	28
+ChiayiPyraminx2009	Chia-yi Pyraminx Competition 2009	Chia-yi	12	23496408	120452570	2009	7	31
 ShanghaiWeisuoOpen2009	Shanghai Weisuo Open 2009	Shanghai	101	31199500	121591768	2009	8	9
+MacauOpen2009	Macau Rubik's Open 2009	Macau	35	22195203	113554830	2009	8	15
 BeijingSummerOpen2009	Beijing Summer Open 2009	Beijing	162	39970628	116369999	2009	8	16
 ShenzhenSummerOpen2009	Shenzhen Summer Open 2009	Shenzhen, Guangdong Province	97	22543446	114057818	2009	8	22
+TaiwanSummerOpen2009	Taiwan Summer Open 2009	Kaohsiung	53	22638085	120297739	2009	8	22
+MaruCubeDay2009	Maru Cube Day 2009	Tainan	33	22995704	120213380	2009	9	5
 GuangdongOpen2009	Guangdong Open 2009	Guangzhou, Guangdong Province	162	23138189	113244559	2009	10	1
 HarbinOpen2009	Harbin Open 2009	Harbin	102	45803260	126535245	2009	11	8
 NanjingOpen2009	Nanjing Open 2009	Nanjing	94	32058365	118796468	2009	12	6
 BeijingWinter2009	Beijing Winter 2009	Beijing	38	39904667	116408198	2009	12	20
 ChangchunOpen2010	Changchun Open 2010	Changchun	90	43817084	125323530	2010	1	2
 HangzhouOpen2010	Hangzhou Open 2010	Hangzhou, Zhejiang	75	30273497	120155249	2010	1	31
+TaiwanWinterOpen2010	Taiwan Winter Open 2010	Taipei	85	25042875	121523797	2010	2	6
 ShanghaiWinter2010	Shanghai Winter Cubing Festival 2010	Shanghai	69	31230708	121472916	2010	2	7
 XianSpring2010	Xi'an Spring 2010	Xi'an, Shaanxi Province	69	34264880	108944265	2010	4	4
 PKUFMC2010	PKU Fewest Moves 2010	Beijing	16	39904667	116408198	2010	4	10
+TaiwanSpring2010	Taiwan Spring Open 2010	Taoyuan	71	24987672	121285693	2010	4	11
 NanjingSpringOpen2010	Nanjing Spring Open 2010	Nanjing	93	32058365	118796468	2010	4	25
 HenanOpen2010	Henan Open 2010	Zhengzhou, Henan Province	90	34747285	113624863	2010	5	2
 BUAAOpen2010	Alpha Cube BUAA Open 2010	Beijing	127	39904667	116408198	2010	5	9
 BeijingSideEventsSupplement2010	Beijing Side Events Supplement 2010	Beijing	26	39904667	116408198	2010	5	23
 Taiyuan2010	Taiyuan 2010	Taiyuan, Shanxi Province	62	37870554	112550737	2010	5	30
+HongKongCubeDay2010	Hong Kong Cube Day 2010	Hong Kong	32	22278381	114174287	2010	6	5
+TaiwanBigCube2010	Taiwan Big Cube Day 2010	Taipei	28	25030307	121512377	2010	6	5
 GuangzhouBigCubes2010	Guangzhou Big Cubes Competition 2010	Guangzhou, Guangdong Province	45	23129075	113264423	2010	7	11
 HunanOpen2010	Hunan Open 2010	Changsha, Hunan Province	45	28228528	112938827	2010	7	18
 InnerMongolia2010	Inner Mongolia 2010	Chifeng, Inner Mongolia	73	42257817	118886856	2010	7	24
 ChangChun2010	ChangChun 2010	ChangChun, JiLin Province	94	43817084	125323530	2010	8	1
+HongKongOpen2010	Hong Kong Open 2010	Hong Kong	49	22322563	114169055	2010	8	7
 ShantouOpen2010	Shantou Open 2010	Shantou, Guangdong Province	64	23353362	116681943	2010	8	8
 ShanghaiOpen2010	Shanghai Open 2010	Shanghai	90	31230708	121472916	2010	8	14
 BeijingMangshanOpen2010	Beijing Mangshan National Forest Park Open 2010	Beijing	23	39904667	116408198	2010	8	28
+TaiwanSummer2010	Taiwan Summer Open 2010	Kaohsiung	95	22621734	120297482	2010	8	28
 Shandong2010	Shandong 2010	Jinan	43	36665282	116994915	2010	9	12
 XianAutumn2010	Xi'an Autumn Open 2010	Xi'an, Shaanxi Province	48	34264880	108944265	2010	9	18
 GuangdongOpen2010	Guangdong Open 2010	Guangzhou, Guangdong Province	102	23129075	113264423	2010	10	3
@@ -44,15 +64,18 @@ WuhanOpen2010	Wuhan Open 2010	Wuhan	61	30553898	114315896	2010	11	14
 TianjinOpen2010	Tianjin Open 2010	Tianjin	84	39120876	117215030	2010	11	21
 BeijingNoCubes2010	Beijing No Cubes 2010	Beijing	34	39959405	116298419	2010	11	28
 NanjingWinter2010	Nanjing Winter Open 2010	Nanjing	70	32058365	118796468	2010	12	5
+TaiwanAutumn2010	Taiwan Autumn Open 2010	Hsinchu	38	24793929	120980820	2010	12	5
 ShenyangBoxingDay2010	Shenyang Cubing Boxing Day 2010	Shenyang	65	41805720	123431470	2010	12	26
 XianWinter2010	Xi'an Winter Open 2010	Xi'an, Shaanxi Province	38	34264987	108944269	2010	12	26
 BeijingWinter2011	Beijing Winter 2011	Beijing	57	39904214	116407413	2011	1	15
 ChangzhouSpring2011	Changzhou Spring Festival Open 2011	Changzhou, Jiangsu Province	40	31779144	119974109	2011	1	23
+TaiwanWinterOpen2011	Taiwan Winter Open 2011	Tainan	69	22986774	120198699	2011	2	12
 XinXiangSpring2011	XinXiang Spring Festival Open 2011	Xinxiang, Henan Province	25	35303004	113926800	2011	2	13
 BeijingFebruary2011	Beijing February Open 2011	Beijing	21	39921034	116443187	2011	2	20
 XianSpring2011	Xi'an Spring 2011	Xi'an, Shaanxi Province	36	34264987	108944269	2011	3	6
 BeijingAfterDark2011	Beijing After Dark 2011	Beijing	14	39959710	116298012	2011	3	19
 OneToEight2011	One-to-eight Cubes Competition 2011	Guangzhou, Guangdong Province	59	23129163	113264435	2011	3	20
+TaiwanSpringOpen2011	Taiwan Spring Open 2011	Hsinchu	50	24795064	120982250	2011	4	2
 ShanghaiSpring2011	Shanghai Spring 2011	Shanghai	17	31188523	121436526	2011	4	9
 XianSummer2011	Xi'an Summer 2011	Xi'an, Shaanxi Province	32	34264987	108944269	2011	4	10
 BeijingSpring2011	Beijing Spring 2011	Beijing	91	39959710	116298012	2011	4	23
@@ -62,6 +85,7 @@ ShenzhenUniversity2011	Shenzhen University 2011	Shenzhen, Guangdong Province	47	
 NanjingSpring2011	Nanjing Spring 2011	Nanjing	90	32048629	118797859	2011	5	14
 BeijingFootsteps2011	Beijing Footsteps 2011	Beijing	14	39991893	116309954	2011	5	15
 Taiyuan2011	Taiyuan 2011	Taiyuan, Shanxi Province	54	37870662	112550619	2011	5	21
+CubikBoxCup2011	Cubik Box Cup 2011	Taipei	54	25119620	121514380	2011	6	4
 HenanUniversityOpen2011	Henan University of Science & Technology Open 2011	Luoyang, Henan	31	34618154	112454363	2011	6	19
 YingkouOpen2011	Yingkou Open 2011	Yingkou City	28	40667061	122234996	2011	6	19
 CyclopsOpen2011	Cyclops Open 2011	Beijing	17	39959710	116298012	2011	6	25
@@ -74,11 +98,13 @@ ShandongOpen2011	Shandong Open 2011	Jinan	65	36651175	116997475	2011	7	31
 XiningSummer2011	Xining Summer Open 2011	Xining	40	36617085	101778208	2011	8	6
 XianLucky2011	Xi'an Lucky Open 2011	Xi'an, Shaanxi Province	30	34264987	108944269	2011	8	14
 HangzhouOpen2011	Hangzhou Open 2011	Hangzhou, Zhejiang	92	30274089	120155069	2011	8	20
+TaiwanSummer2011	Taiwan Summer 2011	Kaohsiung	81	22687735	120291652	2011	8	21
 ShanghaiMeatballFall2011	Shanghai Meatball Fall 2011	Shanghai	32	31220366	121424625	2011	8	27
 XianAutumn2011	Xi'an Autumn Open 2011	Xi'an, Shaanxi Province	41	34264987	108944269	2011	10	1
 GuangzhouCubeDay2011	Guangzhou Cube Day 2011	Guangzhou, Guangdong Province	16	23129163	113264435	2011	10	2
 SuzhouOpen2011	Suzhou Open 2011	Suzhou	43	31150518	120840925	2011	10	3
 ShenYangOpen2011	ShenYang Open 2011	Shenyang	154	41796095	123458694	2011	10	4
+TaipeiOpen2011	Taipei Open 2011	Taipei	65	25046605	121513144	2011	10	8
 NanjingAutumn2011	Nanjing Autumn 2011	Nanjing	39	32114286	118879846	2011	10	30
 ChinaFMBeijing2011	China FM Beijing 2011	Beijing	13	39991893	116309954	2011	11	6
 ChinaFMGuangzhou2011	China FM Guangzhou 2011	Guangzhou, Guangdong Province	6	23129163	113264435	2011	11	6
@@ -96,6 +122,7 @@ XianWinter2011	Xi'an Winter 2011	Xi'an, Shaanxi Province	14	34264987	108944269	2
 TianjinOpen2011	Tianjin Open 2011	Tianjin	42	39109663	117223564	2011	12	25
 XianYangling2012	Xi'an Yangling 2012	Xi'an, Shaanxi Province	20	34264987	108944269	2012	1	1
 HenanCountryside2012	Henan Countryside 2012	Anyang, Henan	12	36131463	114125412	2012	1	23
+TaiwanWinter2012	Taiwan Winter 2012	Hsinchu	62	24795064	120982250	2012	2	11
 HotSpringFestival2012	Hot Spring Festival 2012	Beijing	12	39921034	116443188	2012	2	18
 HefeiSpring2012	Hefei Spring 2012	Hefei, Anhui Province	59	31851254	117260543	2012	3	10
 NanjingSpring2012	Nanjing Spring 2012	Nanjing	96	32032376	118793506	2012	3	25
@@ -117,8 +144,10 @@ HefeiSummer2012	Hefei Summer 2012	Hefei, Anhui Province	49	31269080	121465770	20
 BeijingSummer2012	Beijing Summer 2012	Beijing	84	39906470	116391200	2012	8	12
 Guangdong2012	Guangdong Open 2012	Guangzhou, Guangdong Province	79	23099312	113268774	2012	8	18
 QinghaiOpen2012	Qinghai Open 2012	Xining, Qinghai Province	30	36621900	101772990	2012	8	19
+TaiwanSummer2012	Taiwan Summer Open 2012	Taipei	120	25050005	121511015	2012	8	25
 TibetOpen2012	Tibet Open 2012	Lhasa, Tibet	17	32986579	91986510	2012	8	26
 HangzhouOpen2012	Hangzhou Open 2012	Hangzhou	43	30327110	120143199	2012	9	22
+AsianChampionship2012	Asian Championship 2012	Hong Kong	141	22341170	114201070	2012	10	5
 ShandongOpen2012	Shandong Open 2012	Jinan, Shandong Province	69	36640260	117045450	2012	10	14
 NanjingAutumn2012	Nanjing Autumn 2012	Nanjing	55	32116402	118952686	2012	10	27
 WuhanOpen2012	Wuhan Open 2012	Wuhan, Hubei Province	68	30563310	114281569	2012	11	4
@@ -129,8 +158,11 @@ GuangzhouHEMC2012	Guangzhou HEMC Cubing Movement 2012	Guangzhou, Guangdong Provi
 TianjinWinter2012	Tianjin Winter 2012	Tianjin	56	36561960	103835690	2012	12	23
 XianNewborn2012	Xi'an Newborn 2012	Xi'an, Shaanxi Province, China	49	34188304	108933219	2012	12	23
 GuangzhouFMC2012	Guangzhou Fewest Moves 2012	Guangzhou	16	23099115	113268935	2012	12	30
+MagicRevenge2012	Magic Revenge 2012	Hsinchu	50	24795305	120980544	2012	12	30
 GuilinOpen2013	Guilin Open 2013	Guilin, Guangxi	32	25276010	110284750	2013	1	1
+TaiwanWinterOpen2013	Taiwan Winter Open 2013	Hsinchu	42	24795344	120980608	2013	3	3
 ZhejiangUniversity2013	Zhejiang University 2013	Hangzhou	79	30293150	120162050	2013	3	23
+MaruCubeDay2013	MARU Cube for kid Day 2013	Tainan	41	22986774	120198699	2013	3	30
 NanjingNormalUniversity2013	Nanjing Normal University 2013	Nanjing	97	32037080	118774188	2013	4	6
 WeifangOpen2013	Weifang Open 2013	Weifang, Shandong Province	78	36695401	119092483	2013	4	14
 XianCherryBlossom2013	Xi'an Cherry Blossom 2013	Xi'an	55	34250086	108979053	2013	4	14
@@ -151,11 +183,13 @@ HefeiOpen2013	Hefei Open 2013	Hefei	94	31840825	117229168	2013	7	27
 ShanghaiSummer2013	Shanghai Summer 2013	Shanghai	134	31229188	121449587	2013	8	3
 BeijingSummer2013	Beijing Summer 2013	Beijing	72	39914110	116419980	2013	8	10
 ChongqingOpen2013	Chongqing Open 2013	Chongqing	69	29558570	106549289	2013	8	10
+TaiwanSummer2013	Taiwan Summer Open 2013	Taipei	112	25050205	121510242	2013	8	17
 WuxiOpen2013	Wuxi Open 2013	Wuxi, Jiangsu	74	31591110	120300619	2013	8	17
 XiamenOpen2013	Xiamen Open 2013	Xiamen	76	24515703	118155704	2013	9	20
 GuangdongOpen2013	Guangdong Open 2013	Guangdong	190	23122900	113252999	2013	10	1
 HebeiUniversity2013	Hebei University 2013	Shijiazhuang	34	38041390	114478610	2013	10	13
 TaiyuanOpen2013	Taiyuan Open 2013	Taiyuan, Shanxi Province	33	37867690	112539318	2013	10	19
+KaohsiungOpen2013	Kaohsiung Open 2013	Kaohsiung City	43	22675000	120285142	2013	10	26
 DalianOpen2013	Dalian Open 2013	Dalian	75	38943780	121576059	2013	10	27
 NanchangOpen2013	Nanchang Open 2013	Nanchang, Jiangxi	36	28684413	115895977	2013	10	27
 WenzhouOpen2013	Wenzhou Open 2013	Wenzhou, Zhejiang	41	28016945	120652756	2013	11	3
@@ -164,17 +198,21 @@ GuangzhouBigCubes2013	Guangzhou Big Cubes 2013	Guangzhou, Guangdong	30	23122900	
 XianWinterOpen2013	Xi'an Winter 2013	Xi'an	51	34321038	108959312	2013	12	8
 FuZhouOpen2013	Fuzhou Open 2013	Fuzhou, Fujian Province	72	26063568	119188098	2013	12	15
 BeijingWinterOpen2013	Beijing Winter Open 2013	Beijing	74	39906470	116391200	2013	12	21
+HsinchuWinter2013	Hsinchu Winter Open 2013	Hsinchu	35	24795271	120980495	2013	12	29
 ShenyangOpen2013	Shenyang Open 2013	Shenyang	83	41787697	123431396	2013	12	29
 GuangzhouSmallCubes2014	Guangzhou Small Cubes 2014	Guangzhou, Guangdong	87	23122900	113252999	2014	1	12
 XiningWinterOpen2014	Xining Winter Open 2014	Xining, Qinghai	39	36616629	101773223	2014	2	16
 LanZhouWinter2014	LanZhou Winter 2014	Lanzhou, Gansu	17	36041330	103857959	2014	2	18
+KaohsiungWinterOpen2014	Kaohsiung Winter Open 2014	Kaohsiung	39	22726325	120315018	2014	2	22
 ShanghaiSpring2014	Shanghai Spring 2014	Shanghai	64	31206765	121493341	2014	3	2
+MaruCubeKidsDay2014	Maru Cube for Kids Day 2014	Tainan	39	22986654	120198605	2014	4	5
 NanjingSpring2014	Nanjing Spring 2014	Nanjing	73	32113590	118959870	2014	4	7
 ShandongSpringOpen2014	Shandong Spring Open 2014	Weifang, Shandong	72	36686041	119124755	2014	4	13
 XianCherryBlossom2014	Xi'an Cherry Blossom 2014	Xi'an	69	34249306	108979010	2014	4	13
 BeijingSpring2014	Beijing Spring 2014	Beijing	23	40002240	116410617	2014	4	19
 CubeSplashing2014	Guangzhou Cube Splashing Day 2014	Guangzhou, Guangdong	70	23098049	113303117	2014	4	20
 ShanghaiMilanyuanCafe2014	Shanghai Milanyuan Cafe 2014	Shanghai	17	31059127	121212243	2014	4	26
+HsinchuSpringOpen2014	Hsinchu Spring Open 2014	Hsinchu City	30	24794952	120982097	2014	4	27
 HefeiSpring2014	Hefei Spring 2014	Hefei	85	31840825	117229168	2014	5	1
 ChengduOpen2014	Chengdu Open 2014	Chengdu, Sichuan	55	30645887	104059967	2014	5	2
 FuzhouOpen2014	Fuzhou Open 2014	Fuzhou, Fujian	44	26099954	119298133	2014	5	11
@@ -183,15 +221,19 @@ ZhejiangUniversityOpen2014	Zhejiang University Open 2014	Hangzhou	46	30260253	12
 HarbinOpen2014	Harbin Open 2014	Harbin, Heilongjiang	96	45759858	126628417	2014	5	25
 ZhengzhouOpen2014	Zhengzhou Open 2014	Zhengzhou, Henan	42	34747550	113654120	2014	5	25
 TianjinUniversityOpen2014	Tianjin University Open 2014	Tianjin	51	39117542	117190818	2014	6	7
+MingdaoCubeCarnival2014	Mingdao Cube Carnival 2014	Taichung	42	24106412	120635998	2014	6	15
+KaohsiungSummerOpen2014	Kaohsiung Summer Open 2014	Kaohsiung City 81157	44	22726711	120314735	2014	7	5
 BeijingSummer2014	Beijing Summer Open 2014	Beijing	93	39907917	116451006	2014	7	6
 SuzhouOpen2014	Suzhou Open 2014	Suzhou, Jiangsu	153	31296420	120623303	2014	7	12
 HefeiSummerOpen2014	Hefei Summer Open 2014	Hefei, Anhui	67	31843068	117297661	2014	7	13
 NantongOpen2014	Nantong Open 2014	Nantong, Jiangsu	77	31968687	120892877	2014	7	19
 HuiZhouOpen2014	Huizhou Open 2014	Huizhou, Guangdong Province	62	23058648	114416822	2014	7	27
+TaiwanSummerOpen2014	Taiwan Summer Open 2014	Tainan	79	22997867	120215910	2014	8	2
 ShantouOpen2014	Shantou Open 2014	Shantou, Guangdong	75	23362197	116694758	2014	8	3
 ChongqingOpen2014	Chongqing Open 2014	Chongqing	75	29538781	106511373	2014	8	9
 CrossstraitCubing2014	Cross-strait Cubing Exchange 2014	Fuzhou, Fujian	119	26074840	119273235	2014	8	9
 BeijingAutumnOpen2014	Beijing Autumn 2014	Beijing	37	39975874	116317488	2014	9	13
+MasterChallenge2014	Master Challenge 2014	Hsinchu City	32	24794305	120981104	2014	9	28
 GuangdongOpen2014	Guangdong Open 2014	Guangzhou, Guangdong	236	23096551	113268827	2014	10	1
 ZunyiOpen2014	Zunyi Open 2014	Zunyi, Guizhou	40	27676334	106921153	2014	10	5
 NanjingAutumn2014	Nanjing Autumn 2014	Nanjing, Jiangsu	55	32042011	118795712	2014	10	18
@@ -202,40 +244,57 @@ CrossstraitFMC2014	Cross-strait FMC 2014	Multiple cities in China, Hong Kong, an
 HangzhouWinterOpen2014	Hangzhou Winter Open 2014	Hangzhou	54	30324440	120152461	2014	11	29
 CubeEliteUnionCafe2014	Cube Elite Union Cafe 2014	Shanghai	58	31049543	121213425	2014	12	6
 XianWinterOpen2014	Xi'an Winter Open 2014	Xi'an, Shaanxi	68	34152379	108903488	2014	12	7
+HsinchuWinterOpen2014	Hsinchu Winter Open 2014	Hsinchu	44	24794332	120981038	2014	12	14
 ShenyangOpen2014	Shenyang Open 2014	Shenyang, Liaoning	147	41890307	123415779	2014	12	14
+KaohsiungOpen2014	Kaohsiung Open 2014	Kaohsiung	34	22630237	120347375	2014	12	20
 XianMoreCoffee2014	Xi'an More Coffee 2014	Xi'an	27	34298229	108994937	2014	12	21
 GuangzhouNewYear2015	Guangzhou New Year's Cube Day 2015	Guangzhou, Guangdong	113	23096863	113268648	2015	1	1
 XianNewYear2015	Xi'an New Year 2015	Xi'an, Shaanxi	36	34250575	108983710	2015	1	2
 DalianOpen2015	Dalian Open 2015	Dalian, Liaoning province	52	38950698	121529746	2015	1	25
 NanningOpen2015	Nanning Open 2015	Nanning, Guangxi	27	22800802	108355459	2015	2	7
+KaohsiungOpen2015	Kaohsiung Winter Open 2015	Kaohsiung	37	22629639	120347146	2015	2	15
+BackToCubingHongKong2015	Back To Cubing Hong Kong 2015	Hong Kong	51	22337964	114200928	2015	2	28
+AllIsWell2015	All is Well 2015	Tainan	49	23005123	120214004	2015	3	7
 GuangzhouMoreFun2015	Guangzhou More Fun Site 2015	Guangzhou, Guangdong	76	23085209	113333403	2015	3	15
 AnHuiUniversityOpen2015	AnHui University Open 2015	Anhui, Hefei	51	31766384	117184199	2015	3	29
 XianCherryBlossom2015	Xi'an Cherry Blossom 2015	Xi'an	118	34250574	108983709	2015	4	4
+MaruCubeKidsDay2015	Maru Cube for Kids Day 2015	Tainan	74	22986822	120198689	2015	4	5
 ShanghaiFudanSpring2015	Shanghai Fudan Spring 2015	Shanghai	77	31298510	121502760	2015	4	25
 TJUOpen2015	Tianjin University Open 2015	Tianjin	71	39109233	117174905	2015	4	26
 WenzhouOpen2015	Wenzhou Open 2015	Wenzhou, Zhejiang	66	27924145	120704169	2015	4	26
 NanjingSpring2015	Nanjing Spring 2015	Nanjing	132	32055978	118794211	2015	5	1
 ChengduOpen2015	Chengdu Open 2015	Chengdu	63	30655520	104040393	2015	5	2
 CubeOfPrimeNumbers2015	Cube of Prime Numbers 2015	Guangzhou, Guangdong	77	23096863	113268648	2015	5	2
+ShowOffQuickness2015	Show Off Quickness 2015	Taichung	24	24124600	120675652	2015	5	10
 WuhanOpen2015	Wuhan Open 2015	Wuhan, Hubei	48	30475126	114353035	2015	5	10
+HongKongSpring2015	Hong Kong Spring Cube Day 2015	Hong Kong	30	22337968	114200879	2015	5	16
 QinhuangdaoOpen2015	Qinhuangdao Open 2015	Qinhuangdao, Hebei	71	39906436	119526884	2015	5	16
 XianSummer2015	Xi'an Summer 2015	Xi'an, Shaanxi	35	34243615	108913792	2015	5	17
 FuzhouOpen2015	Fuzhou Open 2015	Fuzhou, Fujian	45	26058821	119197698	2015	5	24
+HsinchuSpringOpen2015	Hsinchu Spring Open 2015	Hsinchu	55	24795964	120981996	2015	5	31
 ZhengzhouOpen2015	Zhengzhou Open 2015	Zhengzhou, Henan	111	34798382	113822351	2015	5	31
 GuangzhouSYSUOpen2015	Guangzhou SYSU Open 2015	Guangzhou, Guangdong	61	23069044	113393066	2015	6	6
+TaiwanCubingLeague2015	Taiwan Cubing League - Taipei 2015	Taipei	48	25046574	121513080	2015	6	13
 NanchangOpen2015	Nanchang Open 2015	Nanchang, Jiangxi	65	28677157	115944563	2015	6	14
+TaiwanOpen2015	Taiwan Open 2015	Tainan	118	23038118	120188108	2015	7	11
 ShenzhenOpen2015	Shenzhen Open 2015	Shenzhen, Guangdong	98	22552795	114122656	2015	7	12
 HefeiOpen2015	Hefei Open 2015	Hefei, Anhui	110	31839090	117257765	2015	7	17
 YangjiangOpen2015	Yangjiang Open 2015	Yangjiang, Guangdong	41	21871398	111983213	2015	7	23
+HsinchuSummerOpen2015	Hsinchu Summer Open 2015	Hsinchu City	49	24794974	120982248	2015	7	26
 HuizhouOpen2015	Huizhou Open 2015	Huizhou, Guangdong	74	23055290	114410539	2015	7	26
 QinzhouOpen2015	Qinzhou Open 2015	Qinzhou, Guangxi	28	21961057	108599173	2015	7	29
+MagicRevenge2015	Magic Revenge 2015	New Taipei City	53	25052217	121457763	2015	8	2
 ShantouOpen2015	Shantou Open 2015	Shantou, Guangdong	105	23362122	116694966	2015	8	2
 WuxiOpen2015	Wuxi Open 2015	Wuxi, Jiangsu	134	31466637	120276633	2015	8	8
 XiningSummerOpen2015	Xining Summer Open 2015	Xining, Qinghai	54	36645235	101698968	2015	8	8
+CrossstraitCubing2015	Cross-strait Cubing Exchange 2015	Taichung	107	24157246	120666135	2015	8	15
+HongKongSummerCubeDay2015	Hong Kong Summer Cube Day 2015	Hong Kong	68	22337968	114200879	2015	8	22
+TwistingFingers2015	Twisting Fingers in New Taipei City 2015	New Taipei City	55	25021049	121416543	2015	8	22
 ShanghaiSummerOpen2015	Shanghai Summer Open 2015	Shanghai	56	31306249	121513447	2015	8	30
 ChinaChampionship2015	China Championship 2015	Guangzhou, Guangdong	513	23104124	113259530	2015	10	2
 BeijingOpen2015	Beijing Open 2015	Beijing	144	39862677	116436889	2015	10	24
 NanjingAutumn2015	Nanjing Autumn 2015	Nanjing	77	32073988	118641982	2015	10	24
+Taichung2015	Taiwan Cubing League - Taichung 2015	Taichung	47	24124647	120675901	2015	10	25
 WuhanUniversityOpen2015	Wuhan University Open 2015	Wuhan, Hubei	74	30536048	114364322	2015	11	1
 ZhenjiangOpen2015	Zhenjiang Open 2015	Zhenjiang, Jiangsu	86	32193913	119519303	2015	11	7
 ZiboOpen2015	Zibo Open 2015	Zibo, Shandong	95	36810043	117999808	2015	11	15
@@ -243,13 +302,18 @@ BeijingLongEvents2015	Beijing Long Events Open 2015	Beijing	8	39973590	116312437
 ParityOpen2015	Parity Open 2015	Guangzhou, Guangdong	38	23096863	113268645	2015	11	29
 XianOpen2015	Xi'an Open 2015	Xi'an	73	34241413	108945656	2015	11	29
 TianjinWinterOpen2015	Tianjin Winter Open 2015	Tianjin	65	39103654	117170354	2015	12	5
+TaipeiOpen2015	Taipei Open 2015	Taipei	50	25054759	121544935	2015	12	6
 YunnanOpen2015	Yunnan Open 2015	Kunming, Yunnan	45	24826383	102845413	2015	12	13
 HeilongjiangOpen2015	Heilongjiang Open 2015	Harbin, Heilongjiang	76	45726155	126638212	2015	12	20
+TaiwanCubingLeagueKaohsiung2015	Taiwan Cubing League - Kaohsiung 2015	Kaohsiung	49	22629639	120347146	2015	12	26
 NanchangWinter2015	Nanchang Winter 2015	Nanchang, Jiangxi	85	28669015	115833471	2015	12	27
 ShenzhenNewYear2016	Shenzhen New Year 2016	Shenzhen, Guangdong	108	22587450	113951886	2016	1	2
 XianNewYear2016	Xi'an New Year 2016	Xi'an	64	34216016	108935989	2016	1	2
 DongguanOpen2016	Dongguan Open 2016	Dongguan, Guangdong	77	23042797	113758998	2016	1	31
+HsinchuWinterOpen2016	Hsinchu Winter Open 2016	Hsinchu	49	24794978	120982248	2016	1	31
+BigCubesChallenge2016	Big Cubes Challenge 2016	Taipei	55	25054759	121544935	2016	2	27
 Guangzhou3x3Days2016	Guangzhou Rubik's Cube Days 2016	Guangzhou, Guangdong	87	23164721	113342252	2016	3	5
+AllisWell2016	All is Well 2016	Kaohsiung	36	22756557	120335935	2016	3	12
 ShanghaiSpring2016	Shanghai Spring 2016	Shanghai	115	31209536	121473011	2016	3	19
 QingdaoOpen2016	Qingdao Open 2016	Qingdao, Shandong	65	35942961	120176680	2016	3	20
 QuietAnHuiUniversity2016	Quiet AnHui University 2016	Hefei, Anhui	14	31767804	117179393	2016	3	27
@@ -258,20 +322,24 @@ HuizhouOpen2016	Huizhou Open 2016	Huizhou, Guangdong	78	23054455	114411251	2016	
 ShenyangOpen2016	Shenyang Open 2016	Shenyang, Liaoning	315	41794259	123422052	2016	4	23
 NanjingSpring2016	Nanjing Spring 2016	Nanjing	146	31897165	118916901	2016	4	30
 ChengduOpen2016	Chengdu Open 2016	Chengdu, Sichuan	103	30632423	104080539	2016	5	1
+TaichungCubeOpen2016	Taichung Cube Open 2016	Taichung	53	24107096	120635674	2016	5	1
 TangshanOpen2016	Tangshan Open 2016	Tangshan	103	39674821	118174414	2016	5	8
 XiamenOpen2016	Xiamen Open 2016	Xiamen, Fujian	97	24437348	118097852	2016	5	8
 XianSummer2016	Xi'an Summer 2016	Xi'an, Shaanxi	56	34173201	108921386	2016	5	8
 ShanghaiSongjiangOpen2016	Shanghai Songjiang Open 2016	Shanghai	129	31057130	121204335	2016	5	14
 WeihaiOpen2016	Weihai Open 2016	Weihai	94	37443423	122164682	2016	5	15
 OneNightinBeijing2016	One Night in Beijing 2016	Beijing	157	39909230	116192301	2016	5	28
+TaiwanBlindDay2016	Taiwan Blind Day 2016	Taipei	15	25007504	121536116	2016	5	29
 FuzhouOpen2016	Fuzhou Open 2016	Fuzhou, Fujian	91	26058889	119197667	2016	6	5
 TaiyuanOpen2016	Taiyuan Open 2016	Taiyuan, Shanxi	65	37759004	112668370	2016	6	5
 CubeofOddNumbers2016	Cube of Odd Numbers 2016	Zhengzhou,Henan	179	34738922	113653920	2016	6	18
 SuzhouOpen2016	Suzhou Open 2016	Suzhou	151	31296353	120623280	2016	7	2
 ChangchunOpen2016	Changchun Open 2016	Changchun, Jilin	69	43908798	125250232	2016	7	3
+MaruCubeDay2016	Maru Cube Day 2016	Tainan	132	23044366	120185762	2016	7	9
 NanchangOpen2016	Nanchang Open 2016	Nanchang, Jiangxi	78	28681371	115940904	2016	7	10
 HefeiOpen2016	Hefei Open 2016	Hefei, Anhui	167	31868277	117283795	2016	7	15
 ChongqingOpen2016	Chongqing Open 2016	Chongqing	125	29556104	106549735	2016	7	16
+HappyCubingTaiwan2016	Happy Cubing Taiwan 2016	New Taipei City	56	25052288	121457830	2016	7	24
 XiningSummerOpen2016	Xining Summer Open 2016	Xining, Qinghai	68	36623429	101770739	2016	7	31
 JinhuaOpen2016	Jinhua Open 2016	Jinhua	134	29091884	119650482	2016	8	6
 LinyiOpen2016	Linyi Open 2016	Linyi	91	35101000	118343616	2016	8	7
@@ -279,9 +347,12 @@ ShantouOpen2016	Shantou Open 2016	Shantou, Guangdong	123	23368628	116702717	2016
 CrossstraitCubing2016	Cross-strait Cubing Exchange 2016	Guangzhou, Guangdong	203	23096863	113268644	2016	8	13
 XianOpen2016	Xi'an Open 2016	Xi'an, Shaanxi	136	34347028	108939319	2016	8	13
 YangzhouOpen2016	Yangzhou Open 2016	Yangzhou, Jiangsu	116	32234035	119381847	2016	8	17
+ACARO2016	Arnold Classic Asia 2016	Hong Kong	117	22321010	113943265	2016	8	20
+KaohsiungOpen2016	Kaohsiung Open 2016	Kaohsiung	47	22629639	120347146	2016	9	25
 AsianChampionship2016	Asian Championship 2016	Beijing	955	39923198	116613906	2016	10	1
 NanjingAutumn2016	Nanjing Autumn 2016	Nanjing, Jiangsu	132	32042503	118799080	2016	10	16
 TKKOpen2016	TKK Open 2016	Zhangzhou, Fujian	96	24366862	118048117	2016	10	16
+TaiwanChampionship2016	Taiwan Championship 2016	Taipei	143	25134449	121483434	2016	10	29
 ShanghaiWinterisComing2016	Shanghai Winter is Coming 2016	Shanghai	150	31209536	121473011	2016	11	5
 WuhanOpen2016	Wuhan Open 2016	Wuhan, Hubei	89	30536048	114364321	2016	11	6
 ZiboOpen2016	Zibo Open 2016	Zibo, Shandong	132	36810009	117999766	2016	11	6
@@ -294,10 +365,13 @@ BignBlind2016	Big 'n Blind 2016	Guangzhou, Guangdong	71	23096863	113268644	2016	
 NanchangWinter2016	Nanchang Winter 2016	Nanchang, Jiangxi	81	28678344	116031138	2016	12	11
 ShenyangWinter2016	Shenyang Winter 2016	Shenyang, Liaoning	138	41796040	123460377	2016	12	11
 WeifangWinter2016	Weifang Winter 2016	Weifang, Shandong	97	36769308	119147967	2016	12	11
+KaohsiungWinterOpen2016	Kaohsiung Winter Open 2016	Kaohsiung	47	22630283	120347504	2016	12	17
 QuanzhouOpen2016	Quanzhou Open 2016	Quanzhou, Fujian	98	24906693	118595845	2016	12	18
 ShenzhenNewYear2017	Shenzhen New Year 2017	Shenzhen, Guangdong	98	22619650	114114633	2017	1	1
 XianNewYear2017	Xi'an New Year 2017	Xi'an, Shaanxi	112	34215989	108935468	2017	1	2
 DongguanOpen2017	Dongguan Open 2017	Dongguan, Guangdong	96	23042797	113758998	2017	1	22
+TaipeiOpen2017	Taipei Open 2017	New Taipei City	64	25019944	121465543	2017	2	11
+HongKongCubeDay2017	Hong Kong Cube Day 2017	Hong Kong	168	22337963	114200926	2017	2	25
 AnhuiUniversitySmartOpen2017	Anhui University Smart Open 2017	Hefei, Anhui	65	31767078	117187934	2017	3	11
 ShanghaiSpring2017	Shanghai Spring 2017	Shanghai	142	31300224	121505991	2017	3	18
 WuhanChuyunSpring2017	Wuhan Chuyun Spring 2017	Wuhan, Hubei	87	30475126	114353032	2017	3	19
@@ -305,6 +379,7 @@ ZUAOpen2017	ZUA Open 2017	Zhengzhou, Henan	179	34787267	113786018	2017	3	25
 GDSYOpen2017	GDSY Open 2017	Guangzhou, Guangdong	139	23073671	113229436	2017	3	26
 QingdaoPrimeNumbers2017	Qingdao Prime Numbers 2017	Qingdao, Shandong	103	36120651	120445838	2017	3	26
 XianCherryBlossom2017	Xi'an Cherry Blossom 2017	Xi'an, Shanxi	214	34250574	108983706	2017	4	2
+AllisWell2017	All is Well 2017	Tainan	47	22979914	120204183	2017	4	8
 ZhangzhouSpring2017	Zhangzhou Spring 2017	Zhangzhou, Fujian	72	24515378	117652714	2017	4	9
 NanchangSpring2017	Nanchang Spring 2017	Nanchang, Jiangxi	112	28747484	115867893	2017	4	15
 GuangzhouSCUT2017	Guangzhou SCUT 2017	Guangzhou, Guangdong	99	23164721	113342252	2017	4	22
@@ -324,7 +399,10 @@ HuaibeiOpen2017	Huaibei Open 2017	Huaibei, Anhui	44	33906224	116748918	2017	5	21
 FuzhouOpen2017	Fuzhou Open 2017	Fuzhou, Fujian	114	26057229	119196398	2017	5	28
 TangshanOpen2017	Tangshan Open 2017	Tangshan, Hebei	111	39625917	118172796	2017	5	28
 ZhuhaiOpen2017	Zhuhai Open 2017	Zhuhai, Guangdong	137	22366566	113546971	2017	5	29
+HKSideEventDay2017	Hong Kong Side Event Day 2017	Hong Kong	50	22337963	114200926	2017	6	3
+TaiwanBlindDay2017	Taiwan Blind Day 2017	Taipei	20	25007504	121536116	2017	6	4
 ZUSTOpen2017	ZUST Open 2017	Hangzhou, Zhejiang	127	30219464	120027330	2017	6	10
+KaohsiungSummerOpen2017	Kaohsiung Summer Open 2017	Kaohsiung	47	22665195	120296248	2017	6	11
 LuoyangOpen2017	Luoyang Open 2017	Luoyang, Henan	101	34685169	112462917	2017	6	11
 MaomingOpen2017	Maoming Open 2017	Maoming, Guangdong	90	21662414	110939419	2017	6	11
 ChaozhouOpen2017	Chaozhou Open 2017	Chaozhou, Guangdong	53	23649720	116634111	2017	6	18
@@ -332,14 +410,19 @@ BeijingOpen2017	Beijing Open 2017	Beijing	280	39936596	116309062	2017	6	24
 QuanzhouOpen2017	Quanzhou Open 2017	Quanzhou, Fujian	113	24737724	118649619	2017	7	2
 ChangshuOpen2017	Changshu Open 2017	Suzhou, Jiangsu Province	102	31651231	120755217	2017	7	8
 LongyanSummerOpen2017	Longyan Summer Open 2017	Longyan, Fujian	79	25055613	117027671	2017	7	9
+MaruCubeDay2017	Maru Cube Day 2017	Tainan	119	23048968	120174841	2017	7	15
 ChinaChampionship2017	China Championship 2017	Xi'an, Shaanxi	566	34177177	108920917	2017	7	28
+LanyangOpen2017	Lanyang Open 2017	Yilan	49	24633602	121794192	2017	7	29
 InnerMongoliaSummer2017	Inner Mongolia Summer 2017	Hohhot, Inner Mongolia	158	40824201	111665034	2017	8	5
 WuxiOpen2017	Wuxi Open 2017	Wuxi, Jiangsu	132	31578431	120283828	2017	8	5
 CoconutIslandOpen2017	Coconut Island Open 2017	Haikou, Hainan	101	20038981	110325426	2017	8	6
+CrossstraitCubing2017	Cross-strait Cubing Exchange 2017	Taichung	127	24107364	120636474	2017	8	12
 NingxiaOpen2017	Ningxia Open 2017	Yinchuan, Ningxia	75	38518099	106130416	2017	8	13
 QuanzhouSideEvent2017	Quanzhou Side Event 2017	Quanzhou, Fujian	120	24906693	118595845	2017	8	19
 ShantouOpen2017	Shantou Open 2017	Shantou, Guangdong	145	23368628	116702717	2017	8	20
 YangzhouOpen2017	Yangzhou Open 2017	Yangzhou, Jiangsu	346	32393966	119381642	2017	8	20
+HongKongOpen2017	Hong Kong Open 2017	Hong Kong	165	22337963	114200926	2017	8	26
+KaohsiungAutumnOpen2017	Kaohsiung Autumn Open 2017	Kaohsiung	48	22629639	120347146	2017	9	10
 SuzhouOpen2017	Suzhou Open 2017	Suzhou	115	31255359	120602983	2017	9	16
 BeijingTenYearsOpen2017	Beijing Ten Years Open 2017	Beijing	194	39927824	116300496	2017	9	17
 XuchangOpen2017	Xuchang Open 2017	Xuchang, Henan	83	34046793	113855058	2017	9	24
@@ -364,6 +447,7 @@ WHURubiksCubeDays2017	WHU Rubik's Cube Days 2017	Wuhan, Hubei	140	30541454	11436
 ShijiazhuangOpen2017	Shijiazhuang Open 2017	Shijiazhuang, Hebei	114	38042657	114445789	2017	11	26
 DalianWinter2017	Dalian Winter 2017	Dalian, Liaoning	114	38856684	121521404	2017	12	3
 ShenzhenOpen2017	Shenzhen Open 2017	Shenzhen, Guangdong	111	22619650	114114633	2017	12	3
+TaiwanChampionship2017	Taiwan Championship 2017	New Taipei City	115	25064920	121447542	2017	12	8
 BignBlind2017	Big 'n Blind 2017	Guangzhou, Guangdong	82	23096863	113268644	2017	12	10
 ZhenjiangOpen2017	Zhenjiang Open 2017	Zhenjiang, Jiangsu	137	32199823	119449387	2017	12	10
 HeilongjiangCollegesOpen2017	Heilongjiang Colleges Open 2017	Harbin, Heilongjiang	136	45739373	126631906	2017	12	17
@@ -372,10 +456,13 @@ ChongqingOpen2017	Chongqing Open 2017	Chongqing	162	29609363	106290121	2017	12	3
 JinhuaNewYearsDay2018	Jinhua New Year's Day 2018	Jinhua, Zhejiang	134	29071165	119639351	2018	1	1
 XianNewYear2018	Xi'an New Year 2018	Xi'an, Shaanxi	190	34232431	109047714	2018	1	1
 ShanghaiWinter2018	Shanghai Winter 2018	Shanghai	154	31057130	121204335	2018	1	20
+CubingTainan2018	Cubing Tainan 2018	Tainan	62	22990016	120200791	2018	1	28
 FushunOpen2018	Fushun Open 2018	Fushun, Liaoning	114	41860411	123902191	2018	1	28
 InnerMongoliaWinter2018	Inner Mongolia Winter 2018	Hohhot	122	40835497	111690364	2018	2	3
+HsinchuWinterOpen2018	Hsinchu Winter Open 2018	Hsinchu	72	24795043	120982258	2018	2	4
 YangjiangOpen2018	Yangjiang Open 2018	Yangjiang, Guangdong	88	21871630	111985954	2018	2	10
 DongguanOpen2018	Dongguan Open 2018	Dongguan, Guangdong	155	22930499	113885197	2018	3	4
+KaohsiungSpringOpen2018	Kaohsiung Spring Open 2018	Kaohsiung	40	22630345	120347011	2018	3	11
 HangzhouSpring2018	Hangzhou Spring 2018	Hangzhou	141	30305845	120085360	2018	3	17
 GDSYOpen2018	GDSY Open 2018	Guangzhou, Guangdong	250	23073671	113229436	2018	3	24
 HubeiUniversityShahuSpring2018	Hubei University Shahu Spring 2018	Wuhan, Hubei	107	30580347	114325254	2018	3	25
@@ -383,6 +470,7 @@ QingdaoOpen2018	Qingdao Open 2018	Qingdao, Shandong	110	36252796	120407668	2018	
 MoreThanOneCube2018	More Than One Cube 2018	Shanghai	39	31227667	121406829	2018	3	31
 CrossstraitCubingExchange2018	Cross-strait Cubing Exchange 2018	Zhuhai, Guangdong	176	22245808	113518630	2018	4	6
 XianCherryBlossom2018	Xi'an Cherry Blossom 2018	Xi'an	302	34246235	108983349	2018	4	6
+AllisWell2018	All is Well 2018	Tainan	35	22979914	120204183	2018	4	14
 LuoyangSpring2018	Luoyang Spring 2018	Luoyang, Henan	102	34575405	112496008	2018	4	15
 KunshanOpen2018	Kunshan Open 2018	Suzhou	141	31404742	120955352	2018	4	21
 LanzhouOpen2018	Lanzhou Open 2018	Lanzhou, Gansu	73	36105922	103725277	2018	4	22
@@ -397,8 +485,10 @@ YouMayOpen2018	You May Open 2018	Hefei	73	31753824	117247436	2018	5	6
 FujianChampionship2018	Fujian Championship 2018	Xiamen, Fujian	123	24598431	118086089	2018	5	12
 WeihaiOpen2018	Weihai Open 2018	Weihai, Shandong	186	37441761	122152418	2018	5	12
 ShanghaiLoveinECNU2018	Shanghai Love in ECNU 2018	Shanghai	158	31228666	121401976	2018	5	19
+TaiwanBlindDay2018	Taiwan Blind Day 2018	Taipei City	19	25007504	121536116	2018	5	20
 ZHBITOpen2018	ZHBIT Open 2018	Zhuhai, Guangdong	82	22366566	113546968	2018	5	20
 HUSTOpen2018	HUST Open 2018	Wuhan, Hubei	111	30508135	114418233	2018	5	26
+CKCubingParty2018	CK Cubing Party 2018	Taipei	73	25031582	121514760	2018	5	27
 DalianOpen2018	Dalian Open 2018	Dalian, Liaoning	140	38910283	121592789	2018	5	27
 LishuiUniversityOpen2018	Lishui University Open 2018	Lishui, Zhejiang	136	28458604	119905907	2018	6	2
 ZhongshanChildrensCubeDay2018	Zhongshan Children's Cube Day 2018	Zhongshan, Guangdong	174	22647209	113266484	2018	6	2
@@ -411,6 +501,7 @@ XuzhouOpen2018	Xuzhou Open 2018	Xuzhou	135	34201701	117176111	2018	6	17
 ChangchunOpen2018	Changchun Open 2018	Changchun, Jilin	102	43812672	125357696	2018	6	18
 ShenyangOpen2018	Shenyang Open 2018	Shenyang, Liaoning	328	41682655	123432942	2018	6	23
 TianjinSummerOpen2018	Tianjin Summer Open 2018	Tianjin	177	39104857	117238287	2018	6	24
+MaruX2018	Maru X 2018	Tainan	153	23048968	120174841	2018	6	30
 PleaseBeQuietBeijing2018	Please Be Quiet Beijing 2018	Beijing	45	39891972	116402708	2018	6	30
 SJTUOpen2018	SJTU Open 2018	Shanghai	112	31027579	121432389	2018	6	30
 HuizhouOpen2018	Huizhou Open 2018	Huizhou, Guangdong	72	22818941	114459986	2018	7	1
@@ -429,6 +520,7 @@ NingxiaOpen2018	Ningxia Open 2018	Yinchuan, Ningxia	78	38471668	106219834	2018	8
 ShenyangSummer2018	Shenyang Summer 2018	 Shenyang, Liaoning	186	41794064	123421231	2018	8	5
 SuzhouOpen2018	Suzhou Open 2018	Suzhou	117	31296461	120623382	2018	8	5
 JieyangOpen2018	Jieyang Open 2018	Jieyang, Guangdong	89	23537642	116375784	2018	8	12
+AsianChampionship2018	WCA Asian Championship 2018	New Taipei City	346	25011193	121463793	2018	8	17
 QianjiangSummerOpen2018	Qianjiang Summer Open 2018	Qianjiang, Hubei	117	30420552	112896952	2018	8	25
 ZhanjiangOpen2018	Zhanjiang Open 2018	Zhanjiang, Guangdong	82	21268726	110361755	2018	8	26
 JiujiangOpen2018	Jiujiang Open 2018	Jiujiang, Jiangxi	63	29675780	116005390	2018	9	8
@@ -438,6 +530,7 @@ DongguanMidAutumnFestival2018	Dongguan Mid-Autumn Festival 2018	Dongguan, Guangd
 WuhanUniversityOpen2018	Wuhan University Open 2018	Wuhan, Hubei	76	30536048	114364321	2018	9	22
 ChinaChampionship2018	China Championship 2018	Beijing	539	40067959	116402515	2018	10	2
 YunnanOpen2018	Yunnan Open 2018	Kunming, Yunnan	79	24843478	102845276	2018	10	6
+KaohsiungAutumnOpen2018	Kaohsiung Autumn Open 2018	Kaohsiung	75	22630345	120347011	2018	10	7
 NingboOpen2018	Ningbo Open 2018	Ningbo	116	29802841	121580379	2018	10	13
 LanzhouAutumn2018	Lanzhou Autumn 2018	Lanzhou, Gansu	78	36095172	103696101	2018	10	14
 WuxiAutumn2018	Wuxi Autumn 2018	Wuxi, Jiangsu	112	31570604	120299502	2018	10	20
@@ -448,6 +541,7 @@ HangzhouOpen2018	Hangzhou Open 2018	Hangzhou, Zhejiang	185	30324705	120151861	20
 MaomingOpen2018	Maoming Open 2018	Maoming, Guangdong	55	21668528	110898355	2018	11	11
 NanjingAutumn2018	Nanjing Autumn 2018	Nanjing, Jiangsu	110	32114576	118916089	2018	11	17
 ShenzhenNanshan2018	Shenzhen Nanshan 2018	Shenzhen, Guangdong	138	22497992	113942121	2018	11	18
+TaipeiWinterOpen2018	Taipei Winter Open 2018	Taipei	97	25055186	121545247	2018	11	18
 ChengduWinterOpen2018	Chengdu Winter Open 2018	Chengdu, Sichuan Province	133	30680208	104147197	2018	11	24
 FuzhouOpen2018	Fuzhou Open 2018	Fuzhou, Fujian	118	26059051	119195768	2018	11	24
 WuhuOpen2018	Wuhu Open 2018	Wuhu	135	31348914	118424437	2018	11	24
@@ -460,6 +554,7 @@ BignBlindGuangzhou2018	Big 'n Blind Guangzhou 2018	Guangzhou, Guangdong	77	23096
 PKU2018	Peking University 2018	Beijing	33	39987600	116304760	2018	12	9
 WHUTOpen2018	WHUT Open 2018	Wuhan, Hubei	81	30604217	114355678	2018	12	9
 XiamenOpen2018	Xiamen Open 2018	Xiamen, Fujian	74	24601103	118085911	2018	12	9
+TaiwanChampionship2018	Taiwan Championship 2018	New Taipei City	134	25011306	121463635	2018	12	15
 WenzhouOpen2018	Wenzhou Open 2018	Wenzhou, Zhejiang	90	27984072	120720418	2018	12	15
 ShijiazhuangWinter2018	Shijiazhuang Winter 2018	Shijiazhuang, Hebei	169	38042961	114483089	2018	12	16
 MudanjiangOpen2018	Mudanjiang Open 2018	Mudanjiang, Heilongjiang	117	44544241	129604238	2018	12	22
@@ -468,16 +563,21 @@ SJTUWinterOpen2018	SJTU Winter Open 2018	Shanghai	168	31021558	121438564	2018	12
 BeijingWinter2018	Beijing Winter 2018	Beijing	225	39846837	116402581	2018	12	31
 DongguanOpen2019	Dongguan Open 2019	Dongguan, Guangdong	114	23033540	113714875	2019	1	13
 YangjiangOpen2019	Yangjiang Open 2019	Yangjiang, Guangdong	36	21854022	111964696	2019	1	19
+HongKongCubeDay2019	Hong Kong Cube Day 2019	Hong Kong	150	22311396	114220330	2019	1	26
 InnerMongoliaWinter2019	Inner Mongolia Winter 2019	Hohhot, Inner Mongolia	109	40862955	111692079	2019	1	26
+TaipeiPeaceOpen2019	Taipei Peace Open 2019	Taipei	84	25019622	121549154	2019	1	26
 JieyangWinter2019	Jieyang Winter 2019	Jieyang, Guangdong	100	23558950	116384549	2019	1	27
 ShenyangNewYear2019	Shenyang New Year 2019	Shenyang, Liaoning	140	41794457	123459726	2019	1	27
+TaichungCubingOpen2019	Taichung Cubing Open 2019	Taichung	98	24106038	120635899	2019	2	16
 Shenzhen3x3Days2019	Shenzhen 3x3 Days 2019	Shenzhen, Guangdong	140	22501058	113932769	2019	3	2
 XianyangOpen2019	Xianyang Open 2019	Xianyang, Shaanxi	135	34321736	108675224	2019	3	3
+ZhuyuangangOpen2019	Zhuyuangang Open 2019	Tainan	77	22994234	120215912	2019	3	16
 GDSYOpen2019	GDSY Open 2019	Guangzhou, Guangdong	270	23073609	113229217	2019	3	23
 HefeiSpring2019	Hefei Spring 2019	Hefei, Anhui	188	31868350	117283770	2019	3	23
 FuzhouSpring2019	Fuzhou Spring 2019	Fuzhou, Fujian	101	26067001	119298578	2019	3	24
 WuhanChuyunSpring2019	Wuhan Chuyun Spring 2019	Wuhan, Hubei	95	30480064	114336062	2019	3	24
 QingdaoSpring2019	Qingdao Spring 2019	Qingdao, Shangdong	114	35943575	120171562	2019	3	31
+TaipeiAlmostWithoutNxN2019	Taipei Almost Without NxN 2019	Taipei	51	25030689	121512809	2019	3	31
 AnyangOpen2019	Anyang Open 2019	Anyang, Henan	118	36105610	114336308	2019	4	6
 QinhuangdaoOpen2019	Qinhuangdao Open 2019	Qinhuangdao, Hebei	120	39905208	119520893	2019	4	6
 WeihaiOpen2019	Weihai Open 2019	Weihai, Shandong	189	37435916	122145581	2019	4	6
@@ -490,6 +590,7 @@ NanchangOpen2019	Nanchang Open 2019	Nanchang, Jiangxi	102	28643140	115884117	201
 ShanghaiMemoryNightmare2019	Shanghai Memory Nightmare 2019	Shanghai	25	31226909	121408521	2019	4	20
 DalianSpring2019	Dalian Spring 2019	Dalian, Liaoning	141	38910456	121592879	2019	4	21
 DongguanSpring2019	Dongguan Spring 2019	Dongguan, Guangdong	113	23041893	113745758	2019	4	21
+HCHS10thAnniversary2019	HCHS 10th Anniversary 2019	Hsinchu	77	24795043	120982258	2019	4	21
 PekingUniversitySpring2019	Peking University Spring 2019	Beijing	46	39987600	116304758	2019	4	21
 WuhuOpen2019	Wuhu Open 2019	Wuhu	94	31348914	118424437	2019	4	27
 ChengduOpen2019	Chengdu Open 2019	Chengdu, Sichuan	183	30648205	104185680	2019	5	1
@@ -497,12 +598,14 @@ GuiyangOpen2019	Guiyang Open 2019	Guiyang, Guizhou	163	26615236	106621364	2019	5
 XuzhouSpring2019	Xuzhou Spring 2019	Xuzhou, Jiangsu	143	34261830	117256218	2019	5	1
 WuhanOpen2019	Wuhan Open 2019	Wuhan, Hubei	141	30543980	114311827	2019	5	2
 XiamenOpen2019	Xiamen Open 2019	Xiamen, Fujian	76	24470276	118114411	2019	5	4
+AllisWellTainan2019	All is Well Tainan 2019	Tainan	47	23010068	120194646	2019	5	5
 LanzhouSpring2019	Lanzhou Spring 2019	Lanzhou, Gansu	101	36099223	103730616	2019	5	11
 HangzhouOpen2019	Hangzhou Open 2019	Hangzhou, Zhejiang	151	30318444	120257695	2019	5	18
 HengyangOpen2019	Hengyang Open 2019	Hengyang, Hunan	76	26900027	112588799	2019	5	18
 AHAUOpen2019	AHAU Open 2019	Hefei, Anhui	86	31861246	117258499	2019	5	19
 TangshanOpen2019	Tangshan Open 2019	Tangshan, Hebei	79	39624837	118166241	2019	5	19
 ZHBITOpen2019	ZHBIT Open 2019	Zhuhai, Guangdong	61	22364209	113543680	2019	5	19
+ChienKuoCubingParty2019	Chien Kuo Cubing Party 2019	Taipei	145	25030689	121512810	2019	5	26
 KunmingOpen2019	Kunming Open 2019	Kunming, Yunnan	66	25023675	102707858	2019	5	26
 ZhengzhouOpen2019	Zhengzhou Open 2019	Zhengzhou, Henan	97	34861172	113602822	2019	5	26
 ZhongshanChildrensDay2019	Zhongshan Children's Cube Day 2019	Zhongshan, Guangdong	370	22647209	113266483	2019	6	1
@@ -514,6 +617,7 @@ HefeiSummer2019	Hefei Summer 2019	Hefei, Anhui	104	31868350	117283770	2019	6	22
 MaomingOpen2019	Maoming Open 2019	Maoming, Guangdong	69	21667395	110903412	2019	6	30
 ShenyangOpen2019	Shenyang Open 2019	Shenyang, Liaoning	354	41751060	123336487	2019	6	30
 ShijiazhuangOpen2019	Shijiazhuang Open 2019	Shijiazhuang, Hebei	173	38045727	114509063	2019	6	30
+MaruCubeDay2019	Maru Cube Day 2019	Tainan	191	22996788	120190835	2019	7	6
 LinfenOpen2019	Linfen Open 2019	Linfen, Shanxi	152	36077940	111518602	2019	7	7
 HuzhouOpen2019	Huzhou Open 2019	Huzhou, Zhejiang	161	30535319	120000420	2019	7	13
 HezeOpen2019	Heze Open 2019	Heze, Shangdong	186	35248504	115464709	2019	7	21
@@ -532,22 +636,27 @@ ZhanjiangOpen2019	Zhanjiang Open 2019	Zhanjiang, Guangdong	93	21268726	110361755
 Shenzhen10thAnniversary2019	Shenzhen Cubing 10th Anniversary 2019	Shenzhen, Guangdong	446	22740798	113821206	2019	8	24
 Xian10thAnniversary2019	Xi'an 10th Anniversary 2019	Xi'an, Shaanxi	217	34257321	108957210	2019	8	24
 QuanzhouOpen2019	Quanzhou Open 2019	Quanzhou, Fujian	96	24873144	118653671	2019	8	25
+MatsuOpen2019	Matsu Open 2019	Lienchiang	17	25968762	119936825	2019	9	7
+DreamOneCubeOpen2019	Dream One Cube Open 2019	Taichung	139	24106038	120635899	2019	9	15
 ShenzhenOpen2019	Shenzhen Open 2019	Shenzhen, Guangdong	266	22514172	114057114	2019	9	21
 XinxiangOpen2019	Xinxiang Open 2019	Xinxiang, Henan	112	35305769	113864191	2019	9	22
 ShandongOpen2019	Shandong Open 2019	Jinan, Shandong	345	36593892	116997270	2019	10	4
 XiamenAutumn2019	Xiamen Autumn 2019	Xiamen, Fujian	97	24471905	118124253	2019	10	6
 YunnanOpen2019	Yunnan Open 2019	Kunming, Yunnan	93	24843478	102845276	2019	10	6
+CrossstraitCubingExchange2019	Cross-strait Cubing Exchange 2019	Taichung	108	24105981	120635890	2019	10	12
 WuhanAutumn2019	Wuhan Autumn 2019	Wuhan, Hubei	106	30493999	114423335	2019	10	13
 NanningOpen2019	Nanning Open 2019	Nanning, Guangxi	78	22875190	108279884	2019	10	19
 ShanghaiOpen2019	Shanghai Open 2019	Shanghai	177	31237900	121416102	2019	10	19
 LuoyangOpen2019	Luoyang Open 2019	Luoyang, Henan	91	34684786	112487602	2019	10	20
 TianjinAutumn2019	Tianjin Autumn 2019	Tianjin	110	39132508	117240536	2019	10	20
 ChangshaAutumn2019	Changsha Autumn 2019	Changsha, Hunan	108	28073082	113002375	2019	10	26
+LanyangOpen2019	Lanyang Open 2019	Yilan	46	24633602	121794192	2019	10	26
 LanzhouAutumn2019	Lanzhou Autumn 2019	Lanzhou, Gansu	81	36095070	103691475	2019	10	27
 ZhongshanNxNSpeedcubing2019	Zhongshan NxN Speedcubing 2019	Zhongshan, Guangdong	109	22519509	113390304	2019	10	27
 NanjingAutumn2019	Nanjing Autumn 2019	Nanjing, Jiangsu	111	31945541	118815682	2019	11	3
 ChengduWinter2019	Chengdu Winter 2019	Chengdu, Sichuan	127	30649512	104186815	2019	11	9
 HangzhouAutumn2019	Hangzhou Autumn 2019	Hangzhou, Zhejiang	259	30322566	120255104	2019	11	9
+KaohsiungAutumnOpen2019	Kaohsiung Autumn Open 2019	Kaohsiung	83	22630345	120347011	2019	11	16
 ZiboOpen2019	Zibo Open 2019	Zibo, Shandong	143	36815796	118004211	2019	11	17
 EzhouOpen2019	Ezhou Open 2019	Ezhou, Hubei	61	30382964	114883490	2019	11	23
 XuzhouWinter2019	Xuzhou Winter 2019	Xuzhou, Jiangsu	113	34197846	117174748	2019	11	24
@@ -555,6 +664,7 @@ XiamenWinter2019	Xiamen Winter 2019	Xiamen, Fujian	112	24607644	118083097	2019	1
 BeijingWinter2019	Beijing Winter 2019	Beijing	331	39844786	116396704	2019	12	7
 BignBlindGuangzhou2019	Big 'n Blind Guangzhou 2019	Guangzhou, Guangdong	87	23099484	113263155	2019	12	8
 WuxiWinter2019	Wuxi Winter 2019	Wuxi, Jiangsu	145	31487512	120269565	2019	12	8
+TaiwanChampionship2019	Taiwan Championship 2019	New Taipei City	207	25011306	121463635	2019	12	13
 NEUOpen2019	NEU Open 2019	Shenyang, Liaoning	219	41761443	123420881	2019	12	15
 NingboFootsteps2019	Ningbo Footsteps 2019	Ningbo, Zhejiang	39	29910923	121637043	2019	12	15
 NanchangWinter2019	Nanchang Winter 2019	Nanchang, Jiangxi	110	28582993	115785433	2019	12	21
@@ -564,6 +674,8 @@ TaiyuanWinter2019	Taiyuan Winter 2019	Taiyuan, Shanxi	90	37889136	112521624	2019
 XianNewYear2020	Xi'an New Year 2020	Xi'an, Shaanxi	176	34263134	108945514	2020	1	1
 OrdosWinter2020	Ordos Winter 2020	Ordos, Inner Mongolia	92	39598836	109778756	2020	1	11
 JieyangWinter2020	Jieyang Winter 2020	Jieyang, Guangdong	106	23558950	116384549	2020	1	19
+PingtungCubingOpen2020	Pingtung Cubing Open 2020	Pingtung	55	22556832	120538092	2020	2	1
+ZhuyuangangOpen2020	Zhuyuangang Open 2020	Tainan	116	22998984	120212893	2020	2	29
 ShenzhenGoodAfternoon2020	 Shenzhen Good Afternoon 2020	Shenzhen, Guangdong	48	22491850	113928823	2020	11	15
 ShenzhenGoodMorning2020	Shenzhen Good Morning 2020	Shenzhen, Guangdong	48	22491850	113928823	2020	11	15
 Guangzhou3x3BLDandFMC2020	Guangzhou 3x3 BLD and FMC 2020	Guangzhou, Guangdong	28	23099484	113263189	2020	12	12
