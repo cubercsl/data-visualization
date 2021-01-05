@@ -13,7 +13,7 @@
 ```sql
 select competitionId, name, cityname, count(distinct personId), latitude, longitude, year, month, day 
 from Results join Competitions on Results.competitionId=Competitions.id 
-where Competitions.countryId='China' 
+where Competitions.countryId in ('China', 'Macau', 'Taiwan', 'Hong Kong') 
 group by competitionId, name, cityname, latitude, longitude, year, month, day 
 order by year, month, day;
 ```
