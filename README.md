@@ -1,6 +1,6 @@
 # data-visualization
 
-数据可视化课程项目
+[WIP] 数据可视化课程项目
 
 ## 数据获取
 
@@ -18,3 +18,18 @@ group by competitionId, name, cityname, latitude, longitude, year, month, day
 order by year, month, day;
 ```
 
+## 处理数据
+需要得到如下格式的数据
+
+```
+[
+    {
+        date: ...,
+        data: [
+            { name: '上海', value: 100 },
+            ...
+        ]
+    },
+    ...
+]
+```
