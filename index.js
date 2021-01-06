@@ -33,10 +33,9 @@ function load_data() {
                             "#ffffbf", "#fee090", "#fdae61", "#f46d43"
                         ]
                     }
-                },
-                {
+                }, {
                     type: 'continuous',
-                    max: 10000,
+                    max: 5000,
                     calculable: true,
                     seriesIndex: 1
                 }],
@@ -89,7 +88,7 @@ function load_data() {
                         }
                     },
                     yAxis: {
-                        max: Math.min(item.data.length - 1, 10),
+                        max: Math.max(2, Math.min(item.data.length - 1, 9)),
                         data: item.data.sort((a, b) => b.value - a.value).map(item => item.name)
                     }
                 }
