@@ -26,19 +26,32 @@ function load_data() {
                         '西北', '西南', '东北', '港澳台'
                     ],
                     seriesIndex: 0,
-                    show: false,
+                    show: true,
+                    left:'1%',
+                    bottom: '40%',
                     inRange: {
                         color: [
-                            "#4575b4", "#74add1", "#abd9e9", "#e0f3f8",
-                            "#ffffbf", "#fee090", "#fdae61", "#f46d43"
+                            "#008b8b", "#74add1", "#808080", "#4169e1",
+                            "#bc8f8f", "#eee8aa", "#9acd32", "#556b2f"
                         ]
-                    }
+                    },
+                    textStyle: {color: '#737373'}
                 }, {
-                    type: 'continuous',
-                    max: 5000,
-                    calculable: true,
-                    seriesIndex: 1
-                }],
+                    type: 'piecewise',
+                    seriesIndex: 1,
+                    show:true,
+                    bottom:'2%',
+                    left:'1%',
+                    pieces: [     
+                        { min: 7000, label: '>7000人次',color: '#ff4500'  }, 
+                        { min: 2000, max: 7000, label: '2000-7000人次', color: '#fa8072' },
+                        { min: 1000, max: 2000, label: '1000-2000人次', color: '#deb887'},
+                        { min: 500, max: 1000,  label: '500-1000人次', color: '#ffdead' },
+                        { min: 100, max: 500,  label: '100-500人次', color: '#fff8dc' },
+                        { max: 100, label: '<100人次', color: '#f5fffa'}         
+                    ],
+                    textStyle: {color: '#737373'}
+                }] ,
             tooltip: {
             },
             grid: [{
