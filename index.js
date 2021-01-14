@@ -31,8 +31,8 @@ function load_data() {
                     bottom: '40%',
                     inRange: {
                         color: [
-                            "#008b8b", "#74add1", "#808080", "#4169e1",
-                            "#bc8f8f", "#eee8aa", "#9acd32", "#556b2f"
+                            "#ff9b6a", "#f1b8f1", "#d9b8f1", "#f1ccb8",
+                            "#f1f1b8", "#b8f1ed", "#b8f1cc", "#e7dbca"
                         ]
                     },
                     textStyle: {color: '#737373'}
