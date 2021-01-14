@@ -16,7 +16,13 @@ function load_data() {
             title: [{}, {
                 text: '中国魔方比赛参赛人次变化史',
                 subtext: '数据来源：世界魔方协会',
-                sublink: 'https://worldcubeassociation.org/'
+                sublink: 'https://worldcubeassociation.org/',
+				right: '10%',
+				top: '2%',
+				textStyle: {
+                    fontWeight: 'bold',
+                    fontSize: 60,
+                }
             }],
             visualMap: [
                 {
@@ -35,16 +41,22 @@ function load_data() {
                     }
                 }, {
                     type: 'continuous',
-                    max: 5000,
+                    max: 8000,
                     calculable: true,
-                    seriesIndex: 1
+                    seriesIndex: 1,
+					inRange: {
+						color: 
+						[
+                            "#87CEFA","#191970"
+                        ]
+                    }
                 }],
             tooltip: {
             },
             grid: [{
                 left: '2%',
-                width: '20%',
-                height: '30%',
+                width: '25%',
+                height: '60%',
                 containLabel: true
             }],
             xAxis: {
@@ -67,7 +79,8 @@ function load_data() {
             }, {
                 type: 'map',
                 name: '累计参赛人次',
-                map: 'china'
+                map: 'china',
+				left: '30%'
             }],
             options: data.map(item => {
                 var year = item.date.split('-')[0]
