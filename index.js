@@ -10,6 +10,18 @@ regionMap = {
     "香港": "港澳台", "黑龙江": "东北"
 }
 
+regions = [
+    '台湾', '广东', '北京', '香港',
+    '上海', '江苏', '河北', '辽宁',
+    '陕西', '澳门', '黑龙江', '吉林',
+    '浙江', '河南', '山西', '湖南',
+    '内蒙古', '山东', '湖北', '天津',
+    '安徽', '福建', '青海', '贵州',
+    '西藏', '广西', '甘肃', '重庆',
+    '江西', '四川', '云南', '海南',
+    '宁夏', '新疆'
+]
+
 function load_data() {
     $.getJSON('data/data.json', (data) => {
         options = {
@@ -34,15 +46,15 @@ function load_data() {
                     seriesIndex: 0,
                     show: true,
                     orient: 'horizontal',
-                    left:'2%',
-                    top:'2%',
+                    left: '2%',
+                    top: '2%',
                     inRange: {
                         color: [
                             "#ff9b6a", "#f1b8f1", "#d9b8f1", "#f1ccb8",
                             "#f1f1b8", "#b8f1ed", "#b8f1cc", "#e7dbca"
                         ]
                     },
-                    textStyle: {color: '#737373'}
+                    textStyle: { color: '#737373' }
                 }, {
                     type: 'continuous',
                     max: 8000,
@@ -50,7 +62,7 @@ function load_data() {
                     seriesIndex: 1,
                     inRange: {
                         color: [
-                            "#87CEFA","#191970"
+                            "#87CEFA", "#191970"
                         ]
                     }
                 }],
@@ -79,6 +91,7 @@ function load_data() {
                     position: 'right',
                     valueAnimation: true
                 },
+                realtimeSort: true
             }, {
                 type: 'map',
                 name: '累计参赛人次',
@@ -88,9 +101,16 @@ function load_data() {
             options: data.map(item => {
                 var year = item.date.split('-')[0]
                 var month = item.date.split('-')[1]
+                bar_data = item.data.map(item => [item.value, item.name, regionMap[item.name]])
+                has_value = item.data.map(item => item.name)
+                regions.forEach(region => {
+                    if (has_value.indexOf(region) === -1) {
+                        bar_data.push([0, region, regionMap[region]])
+                    }
+                })
                 return {
                     series: [{
-                        data: item.data.map(item => [item.value, item.name, regionMap[item.name]])
+                        data: bar_data
                     }, {
                         data: item.data
                     }],
@@ -104,8 +124,7 @@ function load_data() {
                         }
                     },
                     yAxis: {
-                        max: Math.max(2, Math.min(item.data.length - 1, 9)),
-                        data: item.data.sort((a, b) => b.value - a.value).map(item => item.name)
+                        max: Math.max(2, Math.min(has_value.length - 1, 9))
                     }
                 }
             }),
