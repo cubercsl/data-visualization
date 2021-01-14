@@ -32,13 +32,16 @@ function load_data() {
                         '西北', '西南', '东北', '港澳台'
                     ],
                     seriesIndex: 0,
-                    show: false,
+                    show: true,
+                    left:'1%',
+                    bottom: '40%',
                     inRange: {
                         color: [
-                            "#4575b4", "#74add1", "#abd9e9", "#e0f3f8",
-                            "#ffffbf", "#fee090", "#fdae61", "#f46d43"
+                            "#ff9b6a", "#f1b8f1", "#d9b8f1", "#f1ccb8",
+                            "#f1f1b8", "#b8f1ed", "#b8f1cc", "#e7dbca"
                         ]
-                    }
+                    },
+                    textStyle: {color: '#737373'}
                 }, {
                     type: 'continuous',
                     max: 8000,
