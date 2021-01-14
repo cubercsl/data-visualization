@@ -33,8 +33,9 @@ function load_data() {
                     ],
                     seriesIndex: 0,
                     show: true,
-                    left:'1%',
-                    bottom: '40%',
+                    orient: 'horizontal',
+                    left:'2%',
+                    top:'2%',
                     inRange: {
                         color: [
                             "#ff9b6a", "#f1b8f1", "#d9b8f1", "#f1ccb8",
