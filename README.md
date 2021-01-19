@@ -1,6 +1,6 @@
-# data-visualization
+# Data-Visualization
 
-[WIP] 数据可视化课程项目
+数据可视化课程项目 —— 时空数据可时化
 
 ## 数据获取
 
@@ -32,7 +32,3 @@ order by year, month, day;
     ...
 ]
 ```
-
-## 美工
-
-sad...
